@@ -1,0 +1,13 @@
+h1{
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#header{
+    color: chartreuse;
+}
+
+.wrapper{
+    color: aqua;
+}
